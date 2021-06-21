@@ -8,7 +8,7 @@ I am a developer developing using JavaScript (discord.js library), python (some 
 
 ## Ranks
 
-[Stepford County Railway](https://www.roblox.com/games/696347899) ([ROBLOX Group](https://www.roblox.com/groups/3620943/Stepford-County-Railway#!/about)) ([Discord Server](https://discord.gg/scr): Guard <br>
+[Stepford County Railway](https://www.roblox.com/games/696347899) ([ROBLOX Group](https://www.roblox.com/groups/3620943/Stepford-County-Railway#!/about)) ([Discord Server](https://discord.gg/scr)): Guard <br>
 [Putter Productions Discord](https://discord.gg/qyj9GXYkYy): Support Team Manager <br>
 [BC Terminal Interchange Discord](https://discord.gg/QWCCapApZK): Moderator <br>
 [usjet.](https://www.roblox.com/groups/10095601/usjet-RBLX#!/about) ([ROBLOX ro-aviation group](https://www.roblox.com/groups/10095601/usjet-RBLX#!/about)) ([Discord Server](https://discord.gg/3Y8m3MP9nX)): Developer <br>
