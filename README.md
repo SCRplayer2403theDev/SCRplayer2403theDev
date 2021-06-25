@@ -25,7 +25,7 @@ I am a developer developing using JavaScript (discord.js library), python (some 
 [Twitter](https://twitter.com/AarushAtharv) (Tweeter) <br>
 [ROBLOX Group](https://www.roblox.com/groups/6874817/RBLX-Protocol-Studios) (If you want to join)
 
-## The Place I recommend you to visit (All those links and the ranks above, plus the thing below)
+## The Places I recommend you to visit (All those links and the ranks above, plus the places below)
 
 [Rortos Discord](https://discord.gg/rortos): Home for the flight simulators, Real Flight Simulator (Paid, [iOS](https://apps.apple.com/us/app/rfs-real-flight-simulator/id1444761746), [Android](https://play.google.com/store/apps/details?id=it.rortos.realflightsimulator)) and Airline Commander (Free, [iOS](https://apps.apple.com/us/app/airline-commander/id1333476679), [Android](https://play.google.com/store/apps/details?id=it.rortos.realflight))<br>
 [𝒞𝓊𝒷𝑒 Discord](https://mrcube.live/discord): The official server of the twitch streamer, [ItsMrCube](https://www.twitch.tv/itsmrcube)
