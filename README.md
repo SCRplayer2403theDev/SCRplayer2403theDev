@@ -13,6 +13,7 @@ I am a developer developing using JavaScript (discord.js library), python (some 
 [BC Terminal Interchange Discord](https://discord.gg/QWCCapApZK): Moderator <br>
 [usjet.](https://www.roblox.com/groups/10095601/usjet-RBLX#!/about) ([ROBLOX ro-aviation group](https://www.roblox.com/groups/10095601/usjet-RBLX#!/about)) ([Discord Server](https://discord.gg/3Y8m3MP9nX)): Developer <br>
 [Pilot Training Club](https://www.roblox.com/groups/2794513/Pilot-Training-Club) ([ROBLOX Game](https://www.roblox.com/games/20321167/Pilot-Training-Flight-Simulator)) ([Discord Server](https://discord.gg/ptc)): Trainer <br>
+[The Capital Cafe](https://www.roblox.com/games/5531504222/UPDATE-Work-at-The-Capital-Cafe) ([ROBLOX Group](https://www.roblox.com/groups/7378730/The-Capital-Cafe)) ([Discord Server](https://discord.gg/XNFsPkp)): Chief Development Officer <br>
 [ROBLOX DevForum](https://devforum.roblox.com/): Member
 
 ## Links
