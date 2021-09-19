@@ -7,14 +7,7 @@ I am SCRplayer2403, you can also call me "underpants" (due to my ROBLOX avatar f
 I am a developer developing using JavaScript (discord.js library), python (some things in python console) and lua (ROBLOX games). I am currently learning to make meshes using blender these days. I am also experienced in markdown and some parts of HTML.
 
 ## Ranks
-
-[Stepford County Railway](https://www.roblox.com/games/696347899) ([ROBLOX Group](https://www.roblox.com/groups/3620943/Stepford-County-Railway#!/about)) ([Discord Server](https://discord.gg/scr)): Guard <br>
-[Putter Productions Discord](https://discord.gg/qyj9GXYkYy): Support Team Manager <br>
-[BC Terminal Interchange Discord](https://discord.gg/QWCCapApZK): Moderator <br>
-[usjet.](https://www.roblox.com/groups/10095601/usjet-RBLX#!/about) ([ROBLOX ro-aviation group](https://www.roblox.com/groups/10095601/usjet-RBLX#!/about)) ([Discord Server](https://discord.gg/3Y8m3MP9nX)): Developer <br>
-[Pilot Training Club](https://www.roblox.com/groups/2794513/Pilot-Training-Club) ([ROBLOX Game](https://www.roblox.com/games/20321167/Pilot-Training-Flight-Simulator)) ([Discord Server](https://discord.gg/ptc)): Trainer <br>
-[The Capital Cafe](https://www.roblox.com/games/5531504222/UPDATE-Work-at-The-Capital-Cafe) ([ROBLOX Group](https://www.roblox.com/groups/7378730/The-Capital-Cafe)) ([Discord Server](https://discord.gg/XNFsPkp)): Chief Development Officer <br>
-[ROBLOX DevForum](https://devforum.roblox.com/): Member
+Was kind of outdated lol. I will add another set again.
 
 ## Links
 
