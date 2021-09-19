@@ -4,7 +4,7 @@ I am SCRplayer2403, you can also call me "underpants" (due to my ROBLOX avatar f
 
 ## More About Me
 
-I am a developer developing using JavaScript (discord.js library), python (some things in python console) and lua (ROBLOX games. I am currently learning to make meshes using blender these days. I am also experienced in markdown and some parts of HTML.
+I am a developer developing using JavaScript (discord.js library), python (some things in python console) and lua (ROBLOX games). I am currently learning to make meshes using blender these days. I am also experienced in markdown and some parts of HTML.
 
 ## Ranks
 
